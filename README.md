@@ -1,6 +1,5 @@
 ## Overview
 The challenge is to build a simple shopping cart. <br/>
-git 
 
 ## Requirement
 On the shop page, you should list all of these items.<br/>
