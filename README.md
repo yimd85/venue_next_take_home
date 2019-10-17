@@ -1,6 +1,6 @@
 ## Overview
 The challenge is to build a simple shopping cart. <br/>
-
+git 
 
 ## Requirement
 On the shop page, you should list all of these items.<br/>
@@ -14,6 +14,8 @@ You should be able to remove individual items or clear the entire cart.
 ## How to run
 ```git clone git@github.com:yimd85/venue_next_take_home.git```
 <br/>
-```npm install```
+```cd venue_next_take_home```
+<br/>
+```npm install --save```
 <br/>
 ```npm start```
